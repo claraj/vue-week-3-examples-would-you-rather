@@ -38,6 +38,11 @@ export default {
 </script>
 
 <style>
+
+body {
+  background: olive;
+} 
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -48,6 +53,10 @@ export default {
   padding: 10px;
   margin-top: 60px;
   background: blueviolet;
+}
+
+p {
+  font-style: italic;
 }
 </style>
 
