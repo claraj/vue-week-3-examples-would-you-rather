@@ -43,8 +43,11 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: white;
+  margin: 20px;
+  padding: 10px;
   margin-top: 60px;
+  background: blueviolet;
 }
 </style>
 
