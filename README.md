@@ -1,3 +1,3 @@
-# wouldyourather
+# Would You Rather
 
-First component example
+First Vue.js component example
